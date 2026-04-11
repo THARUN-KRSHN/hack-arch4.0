@@ -217,13 +217,6 @@ Built at **Government Engineering College Thrissur** · **Hack Quest 2026** · *
 
 ---
 
-## 🔗 Links
-
-- 🌐 **Live Demo:** [https://redblue-ai.vercel.app](https://redblue-ai.vercel.app)
-- 💻 **GitHub:** [https://github.com/THARUN-KRSHN/redblue-ai](https://github.com/THARUN-KRSHN/redblue-ai)
-
----
-
 ## ⚠️ Disclaimer
 
 RedBlue AI is built for **educational and demonstration purposes only**. The vulnerable target application is intentionally insecure and is designed solely to demonstrate how the Red Agent identifies and the Blue Agent remediates real-world attack vectors. Do not deploy the target demo app in any production or public environment.
